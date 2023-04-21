@@ -1389,3 +1389,62 @@ Script Stack (0 frames):
 [2023.04.21-12.57.36:966][ 18]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.21-12.57.36:966][ 18]LogContentValidation: Display: Validating World /Game/MyBluePrints/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2023.04.21-12.57.36:966][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MyBluePrints/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.04.21-13.07.36:859][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.04.21-13.07.36:860][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyBluePrints/Maps/FirstPersonExampleMap' took 0.035
+[2023.04.21-13.07.36:861][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2023.04.21-13.07.36:861][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2023.04.21-13.07.37:366][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/FirstPersonGameMode_Auto15EF88D0C4B69082F5D1085AE52EEB9A4.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto1.uasset'
+[2023.04.21-13.07.37:368][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Collapse01] ([1] browsable assets)...
+[2023.04.21-13.07.37:422][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01]
+[2023.04.21-13.07.37:422][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Collapse01]
+[2023.04.21-13.07.37:488][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Collapse01_Auto1B86946E24C157FE431D27B8507868CA1.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Collapse01_Auto1.uasset'
+[2023.04.21-13.07.37:489][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Collapse02] ([1] browsable assets)...
+[2023.04.21-13.07.37:493][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02]
+[2023.04.21-13.07.37:493][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Collapse02]
+[2023.04.21-13.07.37:523][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Collapse02_Auto1B743755148BDF897844FCBBE052B9120.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Collapse02_Auto1.uasset'
+[2023.04.21-13.07.37:524][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Smoke01] ([1] browsable assets)...
+[2023.04.21-13.07.37:528][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01]
+[2023.04.21-13.07.37:528][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Smoke01]
+[2023.04.21-13.07.37:559][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Smoke01_Auto1E377236D484C62BCC5F2AA943C4245FA.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Smoke01_Auto1.uasset'
+[2023.04.21-13.07.37:560][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Explosion01] ([1] browsable assets)...
+[2023.04.21-13.07.37:564][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01]
+[2023.04.21-13.07.37:564][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Explosion01]
+[2023.04.21-13.07.37:593][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Explosion01_Auto1D1656AE4429CD613061679917D0240EB.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Explosion01_Auto1.uasset'
+[2023.04.21-13.07.37:595][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Explosion02] ([1] browsable assets)...
+[2023.04.21-13.07.37:598][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02]
+[2023.04.21-13.07.37:598][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Explosion02]
+[2023.04.21-13.07.37:620][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Explosion02_Auto109D1D9664CC139C336C08880E1D524B8.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Explosion02_Auto1.uasset'
+[2023.04.21-13.07.37:622][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Light02] ([1] browsable assets)...
+[2023.04.21-13.07.37:625][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Light02.Light02]
+[2023.04.21-13.07.37:626][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Light02]
+[2023.04.21-13.07.37:649][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Light02_Auto13F6292C948E6685A935F7492DBAA4C1C.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Light02_Auto1.uasset'
+[2023.04.21-13.07.37:650][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Fire01] ([1] browsable assets)...
+[2023.04.21-13.07.37:655][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Fire01.Fire01]
+[2023.04.21-13.07.37:655][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Fire01]
+[2023.04.21-13.07.37:698][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Fire01_Auto18C0BB92A417DB0BA3606849E90F430F2.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Fire01_Auto1.uasset'
+[2023.04.21-13.07.37:699][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Steam01] ([1] browsable assets)...
+[2023.04.21-13.07.37:703][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Steam01.Steam01]
+[2023.04.21-13.07.37:703][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Steam01]
+[2023.04.21-13.07.37:727][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Steam01_Auto12CBE34E341D98256E776C1BAB764909E.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Steam01_Auto1.uasset'
+[2023.04.21-13.07.37:728][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Fire_Sparks01] ([1] browsable assets)...
+[2023.04.21-13.07.37:732][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01]
+[2023.04.21-13.07.37:732][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Fire_Sparks01]
+[2023.04.21-13.07.37:776][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Fire_Sparks01_Auto1BB7DCF5A457E64914C1F12BF0C42AECE.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Fire_Sparks01_Auto1.uasset'
+[2023.04.21-13.07.37:778][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Starter_Music01] ([1] browsable assets)...
+[2023.04.21-13.07.37:789][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01]
+[2023.04.21-13.07.37:789][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Starter_Music01]
+[2023.04.21-13.07.37:892][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Starter_Music01_Auto15892407D4A3F388D7B35CDA0B48B29DA.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Starter_Music01_Auto1.uasset'
+[2023.04.21-13.07.37:893][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Audio/Light01] ([1] browsable assets)...
+[2023.04.21-13.07.37:897][411]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/StarterContent/Audio/Light01.Light01]
+[2023.04.21-13.07.37:897][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Audio/Light01]
+[2023.04.21-13.07.37:932][411]LogSavePackage: Moving '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Light01_Auto1E6E6DACF4387A719A6CC6DB15DBB08A5.tmp' to '../../../../GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/Saved/Autosaves/Game/StarterContent/Audio/Light01_Auto1.uasset'
+[2023.04.21-13.07.37:934][411]LogFileHelpers: Auto-saving content packages took 1.073
+[2023.04.21-13.09.12:426][144]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2023.04.21-13.09.13:557][155]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompile -nocompileeditor -project=D:/GitHub/UnrealEnginePrototypes/uNREALpROJECTS/Term2PFGE/ -install=C:/Users/rugra/Downloads/Term2PFGE.zip
+[2023.04.21-13.09.14:407][206]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2023.04.21-13.09.14:408][206]UATHelper: Zip Project Task (Windows): Project directory: D:\GitHub\UnrealEnginePrototypes\uNREALpROJECTS\Term2PFGE
+[2023.04.21-13.09.14:408][206]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/rugra/Downloads/Term2PFGE.zip
+[2023.04.21-13.09.14:408][206]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2023.04.21-13.09.20:846][537]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2023.04.21-13.09.20:846][537]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2023.04.21-13.09.20:846][537]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
